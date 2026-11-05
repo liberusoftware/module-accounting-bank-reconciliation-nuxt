@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-bank-reconciliation-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-bank-reconciliation",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-bank-reconciliation-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/bank-reconciliation.md",
+  "presentationPlan": "projects/accounting/nuxt/bank-reconciliation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
